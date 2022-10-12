@@ -1,0 +1,25 @@
+/*Estilo de colores*/
+*{
+    color:darkgreen;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color:cyan;
+    background-color: grey;
+}
+.text_centro{
+    text-align: center;
+}
+.text_decorativo{
+    /*decorativo*/
+    text-decoration: underline;
+    /* fuente especifica*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text_estilo{
+    /*un estilo de cursiva oblicua*/
+    font-style: oblique;
+    /*negrita*/
+    font-weight: bold;
+}
