@@ -2,4 +2,4 @@
 
 indice.hmtl  correspnde al ejercicio.
 
-Mi_indice.html  seguiento de la plataforma
+Mi_indice.html   ejercicio de seguimiento de la plataforma
